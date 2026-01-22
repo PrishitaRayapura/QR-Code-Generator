@@ -26,11 +26,11 @@ This application allows users to generate a QR code based on an **ID** and **Pri
 ---
 
 ## 📂 Project Structure
-QR-Code-Generator/
-── index.html # Main HTML file
-── style.css # Styling file
-── script.js # JavaScript logic
-── README.md # Project documentation
+QR-Code-Generator
+- index.html # Main HTML file
+- style.css # Styling file
+- script.js # JavaScript logic
+- README.md # Project documentation
 
 
 ---
